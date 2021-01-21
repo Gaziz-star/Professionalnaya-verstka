@@ -728,11 +728,19 @@
     background-color: #f16d7f;
 }
 
-.socialMedias__link:hover .fa-facebook-f,
-.fa-twitter,
-.fa-linkedin-in,
-.fa-pinterest,
-.fa-google-plus-g {
+.socialMedias__link:hover .fa-facebook-f, .fa-twitter, .fa-linkedin-in, .fa-pinterest, .fa-google-plus-g {
+    color: #f7f7f8;
+}
+
+.socialMedias__link:hover .fa-twitter {
+    color: #f7f7f8;
+}
+
+.socialMedias__link:hover .fa-pinterest {
+    color: #f7f7f8;
+}
+
+.socialMedias__link:hover .fa-google-plus-g {
     color: #f7f7f8;
 }
 
